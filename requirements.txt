@@ -2,6 +2,6 @@ plotly
 ydata_profiling
 pycaret
 pandas
-treamlit_pandas_profiling
+streamlit_pandas_profiling
 os
 operator
