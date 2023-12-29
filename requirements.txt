@@ -1,0 +1,7 @@
+plotly
+ydata_profiling
+pycaret
+pandas
+treamlit_pandas_profiling
+os
+operator
