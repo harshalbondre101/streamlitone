@@ -1,0 +1,907 @@
+2023-05-02 20:34:46,827:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 20:34:46,827:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 20:34:46,827:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 20:34:46,827:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 20:34:52,547:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-02 22:26:28,921:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 22:28:25,362:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 22:29:06,864:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 22:30:37,235:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 22:33:26,414:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:15:01,931:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:15:59,492:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:16:15,711:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:17:22,881:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:17:26,488:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,504:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,506:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,507:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,509:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,510:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,511:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,513:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,514:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:17:26,515:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:17,431:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:43:21,240:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,242:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,243:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,244:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,245:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,246:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,247:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,248:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,249:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:43:21,250:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:44:11,635:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:405: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+
+2023-05-02 23:45:33,914:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:45:37,909:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,911:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,913:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,914:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,915:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,916:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,917:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,919:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,920:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:45:37,921:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:46:30,670:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-02 23:48:40,170:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:48:43,902:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,903:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,905:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,906:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,907:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,908:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,909:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,910:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,911:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:48:43,912:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:49:34,848:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-02 23:51:16,991:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:51:20,932:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,933:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,935:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,936:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,937:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,938:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,939:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,940:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,941:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:51:20,942:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:52:16,377:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-02 23:53:52,325:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-02 23:53:56,067:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,069:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,070:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,071:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,072:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,073:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,074:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,075:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,076:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-02 23:53:56,077:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:356: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:02,799:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:54:02,799:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:54:02,799:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:54:02,799:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:54:10,092:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-03 18:54:34,129:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-03 18:54:39,380:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,382:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,383:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,384:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,385:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,387:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,388:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,389:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,390:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:54:39,391:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:422: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 18:55:31,839:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-03 19:12:43,359:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:12:43,359:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:12:43,360:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:12:43,360:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:12:44,741:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-03 19:18:13,787:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-03 19:18:17,491:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,493:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,494:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,495:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,495:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,495:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,495:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,495:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,495:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:18:17,495:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  from sklearn.feature_extraction.text import TfidfVectorizer
+
+2023-05-03 19:19:06,980:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-03 19:19:56,162:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-03 19:19:59,745:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,747:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,748:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,749:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,750:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,751:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,753:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,754:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,755:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:19:59,756:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:20:46,925:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-03 19:22:22,865:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-03 19:22:26,143:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,144:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,146:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,147:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,148:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,149:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,150:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,151:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,152:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:22:26,153:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 19:23:14,378:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-03 21:49:55,611:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 21:49:55,611:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 21:49:55,611:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 21:49:55,611:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 21:50:02,713:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-03 21:50:28,045:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-03 21:50:32,462:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,464:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,466:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,468:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,469:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,470:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,471:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,472:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,473:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:32,474:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:35,448:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-03 21:50:40,769:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,769:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:50:40,779:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 21:52:01,843:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-03 22:06:09,510:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-03 22:06:12,980:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,981:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,982:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,983:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,984:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,985:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,986:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,987:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,988:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:06:12,989:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-03 22:07:07,271:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:19:15,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-09 22:19:15,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-09 22:19:15,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-09 22:19:15,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-09 22:19:22,547:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-09 22:20:13,145:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-09 22:20:19,726:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,728:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,729:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,731:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,733:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,735:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,737:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,739:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,740:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:20:19,742:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:00,725:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-09 22:21:07,401:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,403:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,404:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,405:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,407:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,408:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,409:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,410:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,411:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:21:07,413:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:14,811:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-09 22:23:23,404:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,407:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,410:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,411:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,414:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,415:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,417:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,418:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,421:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:23:23,423:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:27,389:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-09 22:24:33,515:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-09 22:24:44,809:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,811:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,813:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,815:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,817:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,819:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,822:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,824:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,825:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:44,827:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,782:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,784:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,785:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,787:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,788:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,790:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,791:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,793:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,794:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:24:48,796:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:391: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  topics_df = topics_df.append({'Topic': idx, 'Words': words}, ignore_index=True)
+
+2023-05-09 22:27:51,176:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+
+2023-05-09 22:27:59,702:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,706:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,710:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,713:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,715:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,717:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,718:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,720:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,722:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:27:59,725:WARNING:C:\Users\DELL\OneDrive\Desktop\Internships\streamlit\app.py:392: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  
+
+2023-05-09 22:28:50,795:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 127775 (\N{GLOWING STAR}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:50,907:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128095 (\N{ATHLETIC SHOE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:51,090:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 9996 (\N{VICTORY HAND}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:51,091:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 65039 (\N{VARIATION SELECTOR-16}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:52,648:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129392 (\N{SMILING FACE WITH SMILING EYES AND THREE HEARTS}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:53,421:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129335 (\N{SHRUG}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:54,562:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129300 (\N{THINKING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:57,732:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128513 (\N{GRINNING FACE WITH SMILING EYES}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:58,265:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128545 (\N{POUTING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:58,521:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128577 (\N{SLIGHTLY FROWNING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:58,522:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128534 (\N{CONFOUNDED FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:59,444:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128530 (\N{UNAMUSED FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:28:59,751:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12484 (\N{KATAKANA LETTER TU}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:00,022:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128518 (\N{SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:00,243:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129322 (\N{GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:00,568:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129315 (\N{ROLLING ON THE FLOOR LAUGHING}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:00,764:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 11088 (\N{WHITE MEDIUM STAR}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:01,283:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128078 (\N{THUMBS DOWN SIGN}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:01,284:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 127996 (\N{EMOJI MODIFIER FITZPATRICK TYPE-3}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:01,767:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128521 (\N{WINKING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:01,884:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128557 (\N{LOUDLY CRYING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:02,598:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129318 (\N{FACE PALM}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:03,277:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 9899 (\N{MEDIUM BLACK CIRCLE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:03,618:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128578 (\N{SLIGHTLY SMILING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:04,839:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129310 (\N{HAND WITH INDEX AND MIDDLE FINGERS CROSSED}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:05,526:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 127995 (\N{EMOJI MODIFIER FITZPATRICK TYPE-1-2}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:05,539:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128522 (\N{SMILING FACE WITH SMILING EYES}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:05,540:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128077 (\N{THUMBS UP SIGN}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:05,579:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128548 (\N{FACE WITH LOOK OF TRIUMPH}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:05,664:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 127998 (\N{EMOJI MODIFIER FITZPATRICK TYPE-5}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:06,159:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128529 (\N{EXPRESSIONLESS FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:06,593:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128512 (\N{GRINNING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:29:06,621:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128555 (\N{TIRED FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:49,304:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128532 (\N{PENSIVE FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:49,483:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128580 (\N{FACE WITH ROLLING EYES}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:49,516:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 65288 (\N{FULLWIDTH LEFT PARENTHESIS}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:49,640:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128514 (\N{FACE WITH TEARS OF JOY}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:49,641:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 12540 (\N{KATAKANA-HIRAGANA PROLONGED SOUND MARK}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:50,007:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128591 (\N{PERSON WITH FOLDED HANDS}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:50,127:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128553 (\N{WEARY FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:50,146:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 129324 (\N{SERIOUS FACE WITH SYMBOLS COVERING MOUTH}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:50,202:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128683 (\N{NO ENTRY SIGN}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:50,274:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128147 (\N{BEATING HEART}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:50,482:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 9785 (\N{WHITE FROWNING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:50,932:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128241 (\N{MOBILE PHONE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,144:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128524 (\N{RELIEVED FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,401:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 127384 (\N{SQUARED SOS}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,522:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128546 (\N{CRYING FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,534:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128267 (\N{BATTERY}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,565:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 10084 (\N{HEAVY BLACK HEART}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,568:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128579 (\N{UPSIDE-DOWN FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,633:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128517 (\N{SMILING FACE WITH OPEN MOUTH AND COLD SWEAT}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,641:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 65292 (\N{FULLWIDTH COMMA}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,648:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128542 (\N{DISAPPOINTED FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,795:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128565 (\N{DIZZY FACE}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,795:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128171 (\N{DIZZY SYMBOL}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,898:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 127999 (\N{EMOJI MODIFIER FITZPATRICK TYPE-6}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:51,898:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128531 (\N{FACE WITH COLD SWEAT}) missing from current font.
+  fig.savefig(image, **kwargs)
+
+2023-05-09 22:32:52,137:WARNING:C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\streamlit\elements\pyplot.py:161: UserWarning: Glyph 128075 (\N{WAVING HAND SIGN}) missing from current font.
+  fig.savefig(image, **kwargs)
+
